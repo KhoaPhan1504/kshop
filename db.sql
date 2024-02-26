@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS kshop;
+CREATE DATABASE kshop;
+USE kshop;
